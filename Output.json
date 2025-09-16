@@ -1,3 +1,5 @@
+Вивід в консолі з першої частини завдання першого варіанту "Офіційний курс гривні до іноземних валют та облікова ціна банківських металів"
+
 [
 {
 "r030":12,"txt":"Алжирський динар","rate":0.31944,"cc":"DZD","exchangedate":"16.09.2025"
@@ -138,3 +140,5 @@
 "r030":964,"txt":"Паладій","rate":49548.55,"cc":"XPD","exchangedate":"16.09.2025"
  }
 ]
+
+https://bank.gov.ua/NBU_Exchange/exchange_site?start=20220707&end=20220719&valcode=usd&sort=exchangedate&order=desc&json
